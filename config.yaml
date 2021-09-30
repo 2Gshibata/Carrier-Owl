@@ -5,10 +5,11 @@ subject: 'cat:q-bio.*'
 keywords:
         microbiome: 1
         air microbiome: 1
-        machine: 1
+        pairticle matter: 1
         Qiime2: 1
         new generation sequencing: 1
         chemosignal: 1
+        k-mer: 1
 
 # 通知の閾値
 score_threshold: 0
