@@ -1,15 +1,1 @@
-# arxivの学問領域の指定
-subject: 'cat:q-bio.*'
 
-# 検索キーワード
-keywords:
-        microbiome: 1
-        air microbiome: 1
-        pairticle matter: 1
-        Qiime2: 1
-        new generation sequencing: 1
-        chemosignal: 1
-        k-mer: 1
-
-# 通知の閾値
-score_threshold: 0
